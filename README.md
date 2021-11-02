@@ -7,3 +7,4 @@ Datasets used for training:
 2. PatternNet - https://drive.google.com/file/d/127lxXYqzO6Bd0yZhvEbgIfz95HaEnr9K/view?usp=sharing
 
 The image dataset consisting of 10 large-size multispectral images was prepared using LandSat 8 and Sentinel-2A images downloaded from USGS Explorer (https://earthexplorer.usgs.gov/). 
+Ends
